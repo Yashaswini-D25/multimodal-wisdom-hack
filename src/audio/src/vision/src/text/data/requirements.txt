@@ -1,0 +1,6 @@
+opencv-python
+moviepy
+openai-whisper
+librosa
+google-generativeai
+python-dotenv
